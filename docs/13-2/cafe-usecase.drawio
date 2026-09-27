@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="TFKYy2oqmetKSSBLAxJh">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" value="モバイルオーダーアプリ" vertex="1">
+          <mxGeometry height="370" width="360" x="244" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-5" edge="1" parent="1" source="AbYMmKzX0R7pW8wMDhbO-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="AbYMmKzX0R7pW8wMDhbO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144" y="350" as="sourcePoint" />
+            <mxPoint x="234" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-8" edge="1" parent="1" source="AbYMmKzX0R7pW8wMDhbO-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="AbYMmKzX0R7pW8wMDhbO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUNjctulukMZvJX1dnge-3" edge="1" parent="1" source="AbYMmKzX0R7pW8wMDhbO-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="sOndv6aaUHGJNkcfjiS7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jUNjctulukMZvJX1dnge-5" edge="1" parent="1" source="AbYMmKzX0R7pW8wMDhbO-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sOndv6aaUHGJNkcfjiS7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="お客さま" vertex="1">
+          <mxGeometry height="60" width="30" x="114" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="メニューを見る" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AbYMmKzX0R7pW8wMDhbO-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="商品を注文する" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="sOndv6aaUHGJNkcfjiS7-10" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sOndv6aaUHGJNkcfjiS7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOndv6aaUHGJNkcfjiS7-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="店員" vertex="1">
+          <mxGeometry height="60" width="30" x="684" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="sOndv6aaUHGJNkcfjiS7-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文状況を取り消す" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="sOndv6aaUHGJNkcfjiS7-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文を受け渡す" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="sOndv6aaUHGJNkcfjiS7-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文状況を見る" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
