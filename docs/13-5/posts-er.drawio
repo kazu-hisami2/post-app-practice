@@ -1,0 +1,35 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="TFKYy2oqmetKSSBLAxJh">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-4" edge="1" parent="1" source="PwNVRPlBem4dzTvWKEGd-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" target="PwNVRPlBem4dzTvWKEGd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-6" connectable="0" parent="PwNVRPlBem4dzTvWKEGd-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1人のユーザーは&lt;div&gt;複数の投稿を持つ&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1445" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="users" vertex="1">
+          <mxGeometry height="40" width="90" x="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-5" edge="1" parent="1" source="PwNVRPlBem4dzTvWKEGd-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" target="PwNVRPlBem4dzTvWKEGd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-7" connectable="0" parent="PwNVRPlBem4dzTvWKEGd-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1つのカテゴリに&lt;div&gt;複数の投稿を含む&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3476" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="categories" vertex="1">
+          <mxGeometry height="40" width="130" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PwNVRPlBem4dzTvWKEGd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="post&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="480" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
